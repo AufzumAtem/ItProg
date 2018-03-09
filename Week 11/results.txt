@@ -1,0 +1,4 @@
+Customers in the system = 12.499999999999996
+avg number of customers = 11.57407407407407
+waiting time in the system = 0.08999999999999997
+avg waiting time = 0.0833333333333333

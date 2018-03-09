@@ -29,6 +29,7 @@ while i <10:
                 
                 else:
                     outboard[r][c]="0"
+        outboard[guess[0]][guess[1]]="H"
         for j in outboard: 
             print(j)
         break
