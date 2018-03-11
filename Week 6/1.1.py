@@ -18,7 +18,7 @@ i=0
 while i < n-1:
     out += y[i][i+1]
     i+=1
-print(y)
+
 #calc 2
 a=len(inp)
 l=0

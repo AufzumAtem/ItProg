@@ -5,7 +5,7 @@ Created on Sat Nov 11 16:39:14 2017
 @author: Romeo
 """
 
-inp=input('Number  (seperate with " "):')
+inp=input('Numbers:')
 inp=inp.split(" ")
 table= [ [ 0 for i in range(20) ] for j in range(20) ]
 
